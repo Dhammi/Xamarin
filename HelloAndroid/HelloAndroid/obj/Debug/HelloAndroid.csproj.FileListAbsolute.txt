@@ -1,0 +1,17 @@
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\bin\Debug\HelloAndroid.dll
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\bin\Debug\HelloAndroid.pdb
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\bin\Debug\HelloAndroid.HelloAndroid.apk
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\bin\Debug\HelloAndroid.HelloAndroid-Signed.apk
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\obj\Debug\HelloAndroid.csprojResolveAssemblyReference.cache
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\obj\Debug\HelloAndroid.dll
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\obj\Debug\HelloAndroid.pdb
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\obj\Debug\android\bin\HelloAndroid.HelloAndroid.apk
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\obj\Debug\res\layout\main.xml
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\obj\Debug\res\values\strings.xml
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\obj\Debug\R.cs.flag
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\obj\Debug\uploadflags.txt
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\obj\Debug\res\layout\home.xml
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\obj\Debug\res\drawable\programming_circle_logo.png
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\obj\Debug\HelloAndroid.dll.mdb
+C:\Users\Dhammi\Documents\Visual Studio 2013\Projects\Xamarin\HelloAndroid\HelloAndroid\bin\Debug\HelloAndroid.dll.mdb
